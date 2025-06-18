@@ -1,4 +1,21 @@
-# Contributing
+# Contributing to IESopt
+
+## Issues
+### How to use
+### Reporting issues
+### Resolving issues
+
+## Contributing to code (includes documentation)
+### Workflow
+### Contributing code
+
+## Reviewing code 
+
+
+
+
+
+# Contributing 
 
 Thank you for your interest in contributing to `iesopt`! This guide provides instructions on setting up your development environment and contributing code.
 
